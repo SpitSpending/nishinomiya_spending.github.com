@@ -22,9 +22,9 @@ OpenSpending.Styles.Cofog = {
   '101': { icon: 'icons/unemployment.svg', color: '#C75746', bcolor: '#C75746' }, // 議会 議会費 *
 
   '2': { icon: 'icons/financial-admin.svg', color: '#C75746', bcolor: '#7b0f12' }, // その他 *
-  '201': { icon: 'icons/publicaffairs.svg', color: '#C75746', bcolor: '#7b0f12' }, // その他 総務費 *
-  '202': { icon: 'icons/pound2.svg', color: '#C75746', bcolor: '#7b0f12' }, // その他 徴税費 *
-  '203': { icon: 'icons/reserch.svg', color: '#C75746', bcolor: '#7b0f12' }, // その他 戸籍住民基本台帳費 *
+  '201': { icon: 'icons/financial-admin.svg', color: '#C75746', bcolor: '#7b0f12' }, // その他 総務費 *
+  '202': { icon: 'icons/financial-admin.svg', color: '#C75746', bcolor: '#7b0f12' }, // その他 徴税費 *
+  '203': { icon: 'icons/financial-admin.svg', color: '#C75746', bcolor: '#7b0f12' }, // その他 戸籍住民基本台帳費 *
   '204': { icon: 'icons/civilian-action.svg', color: '#C75746', bcolor: '#7b0f12' }, // その他 選挙費 *
   '205': { icon: 'icons/financial-admin.svg', color: '#C75746', bcolor: '#7b0f12' }, // その他 統計調査費 *
   '206': { icon: 'icons/financial-admin.svg', color: '#C75746', bcolor: '#7b0f12' }, // その他 監査委員費 *
