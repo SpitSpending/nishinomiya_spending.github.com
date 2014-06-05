@@ -22,12 +22,12 @@ OpenSpending.Styles.Cofog = {
   '101': { icon: 'icons/unemployment.svg', color: '#C75746', bcolor: '#C75746' }, // 議会 議会費 *
 
   '2': { icon: 'icons/financial-admin.svg', color: '#C75746', bcolor: '#7b0f12' }, // その他 *
-  '201': { icon: 'icons/publicaffairst.svg', color: '#C75746', bcolor: '#7b0f12' }, // その他 総務費 *
+  '201': { icon: 'icons/financial-admin.svg', color: '#C75746', bcolor: '#7b0f12' }, // その他 総務費 *
   '202': { icon: 'icons/financial-admin.svg', color: '#C75746', bcolor: '#7b0f12' }, // その他 徴税費 *
-  '203': { icon: 'icons/reserch.svg', color: '#C75746', bcolor: '#7b0f12' }, // その他 戸籍住民基本台帳費 *
-  '204': { icon: 'icons/government.svg', color: '#C75746', bcolor: '#7b0f12' }, // その他 選挙費 *
-  '205': { icon: 'icons/reserch.svg', color: '#C75746', bcolor: '#7b0f12' }, // その他 統計調査費 *
-  '206': { icon: 'icons/reserch.svg', color: '#C75746', bcolor: '#7b0f12' }, // その他 監査委員費 *
+  '203': { icon: 'icons/financial-admin.svg', color: '#C75746', bcolor: '#7b0f12' }, // その他 戸籍住民基本台帳費 *
+  '204': { icon: 'icons/civilian-action.svg', color: '#C75746', bcolor: '#7b0f12' }, // その他 選挙費 *
+  '205': { icon: 'icons/financial-admin.svg', color: '#C75746', bcolor: '#7b0f12' }, // その他 統計調査費 *
+  '206': { icon: 'icons/financial-admin.svg', color: '#C75746', bcolor: '#7b0f12' }, // その他 監査委員費 *
 
   '3': { icon: 'icons/wheelchair.svg', color: '#C75746', bcolor: '#0ba4c4' },  // 福祉・健康・医療 *
   '301': { icon: 'icons/wheelchair.svg', color: '#C75746', bcolor: '#0ba4c4' },   // 福祉・健康・医療 社会福祉費 *
@@ -37,7 +37,7 @@ OpenSpending.Styles.Cofog = {
   '305': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#0ba4c4' },   // 福祉・健康・環境保全 保健費 *
   '306': { icon: 'icons/hospital.svg', color: '#C75746', bcolor: '#0ba4c4' },   // 福祉・健康・環境保全 病院費 *
   
-  '4': { icon: 'icons/misc-services.svg', color: '#C75746', bcolor: '#1ab525' }, // 環境保全 *
+  '4': { icon: 'icons/environment-admin.svg', color: '#C75746', bcolor: '#1ab525' }, // 環境保全 *
   '401': { icon: 'icons/environment-admin.svg', color: '#C75746', bcolor: '#1ab525' },   // 環境保全 衛生費 *
   '402': { icon: 'icons/environment-admin.svg', color: '#C75746', bcolor: '#1ab525' },   // 環境保全 清掃費 *
 
@@ -58,7 +58,7 @@ OpenSpending.Styles.Cofog = {
 
   '7': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#f26d00' }, // 安全・防災 *
   '701': { icon: 'icons/fire-brigade.svg', color: '#C75746', bcolor: '#f26d00' }, // 安全・防災 消防費 *
-  '702': { icon: 'icons/reserch.svg', color: '#C75746', bcolor: '#f26d00' }, // 安全・防災 防災対策費 *
+  '702': { icon: 'icons/rd-order-safety.svg', color: '#C75746', bcolor: '#f26d00' }, // 安全・防災 防災対策費 *
   '703': { icon: 'icons/rd-order-safety.svg', color: '#C75746', bcolor: '#f26d00' }, // 安全・防災 安全・安心対策費 *
 
   '8': { icon: 'icons/primary.svg', color: '#C75746', bcolor: '#D33673' }, // 子育て *
