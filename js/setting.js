@@ -28,6 +28,8 @@ OpenSpending.Styles.Cofog = {
   '204': { icon: 'icons/civilian-action.svg', color: '#C75746', bcolor: '#7b0f12' }, // その他 選挙費 *
   '205': { icon: 'icons/financial-admin.svg', color: '#C75746', bcolor: '#7b0f12' }, // その他 統計調査費 *
   '206': { icon: 'icons/financial-admin.svg', color: '#C75746', bcolor: '#7b0f12' }, // その他 監査委員費 *
+  '207': { icon: 'icons/communication.svg', color: '#C75746', bcolor: '#790586' }, // その他 農林水産施設災害復旧費 *
+  '208': { icon: 'icons/coal.svg', color: '#C75746', bcolor: '#790586' }, // その他 公共土木施設災害復旧費 *
 
   '3': { icon: 'icons/wheelchair.svg', color: '#C75746', bcolor: '#0ba4c4' },  // 福祉・健康・医療 *
   '301': { icon: 'icons/wheelchair.svg', color: '#C75746', bcolor: '#0ba4c4' },   // 福祉・健康・医療 社会福祉費 *
@@ -80,9 +82,7 @@ OpenSpending.Styles.Cofog = {
   '901': { icon: 'icons/money.svg', color: '#C75746', bcolor: '#0AB971' },  // 公債 公債費 *
 
   '10': { icon: 'icons/admin.svg', color: '#C75746', bcolor: '#790586' }, // その他の経費 *
-  '1001': { icon: 'icons/communication.svg', color: '#C75746', bcolor: '#790586' }, // その他の経費 農林水産施設災害復旧費 *
-  '1002': { icon: 'icons/coal.svg', color: '#C75746', bcolor: '#790586' }, // その他の経費 公共土木施設災害復旧費 *
-  '1003': { icon: 'icons/pig.svg', color: '#C75746', bcolor: '#790586' } // その他の経費 予備費 *
+  '1001': { icon: 'icons/pig.svg', color: '#C75746', bcolor: '#790586' } // その他の経費 予備費 *
 };
 
 
