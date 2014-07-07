@@ -80,8 +80,8 @@ OpenSpending.Styles.Cofog = {
   '901': { icon: 'icons/money.svg', color: '#C75746', bcolor: '#0AB971' },  // 公債 公債費 *
 
   '10': { icon: 'icons/admin.svg', color: '#C75746', bcolor: '#790586' }, // その他の経費 *
-  '1001': { icon: 'icons/communication.svg', color: '#C75746', bcolor: '#790586' }, // 投資的経費 農林水産施設災害復旧費 *
-  '1002': { icon: 'icons/coal.svg', color: '#C75746', bcolor: '#790586' }, // 投資的経費 公共土木施設災害復旧費 *
+  '1001': { icon: 'icons/communication.svg', color: '#C75746', bcolor: '#790586' }, // その他の経費 農林水産施設災害復旧費 *
+  '1002': { icon: 'icons/coal.svg', color: '#C75746', bcolor: '#790586' }, // その他の経費 公共土木施設災害復旧費 *
   '1003': { icon: 'icons/pig.svg', color: '#C75746', bcolor: '#790586' } // その他の経費 予備費 *
 };
 
