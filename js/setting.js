@@ -76,15 +76,13 @@ OpenSpending.Styles.Cofog = {
   '812': { icon: 'icons/sports02.svg', color: '#C75746', bcolor: '#D33673' },   // 子育て・教育 体育施設整備費 *
   '813': { icon: 'icons/sports02.svg', color: '#C75746', bcolor: '#D33673' },   // 子育て・教育 体育施設用地買収事業費 *
 
-  '9': { icon: 'icons/communication.svg', color: '#C75746', bcolor: '#e2bd27' }, // 投資的経費 *
-  '901': { icon: 'icons/communication.svg', color: '#C75746', bcolor: '#e2bd27' }, // 投資的経費 農林水産施設災害復旧費 *
-  '902': { icon: 'icons/coal.svg', color: '#C75746', bcolor: '#e2bd27' }, // 投資的経費 公共土木施設災害復旧費 *
+  '9': { icon: 'icons/money.svg', color: '#C75746', bcolor: '#0AB971' },  // 公債 *
+  '901': { icon: 'icons/money.svg', color: '#C75746', bcolor: '#0AB971' },  // 公債 公債費 *
 
-  '10': { icon: 'icons/money.svg', color: '#C75746', bcolor: '#0AB971' },  // 公債 *
-  '1001': { icon: 'icons/money.svg', color: '#C75746', bcolor: '#0AB971' },  // 公債 公債費 *
-
-  '11': { icon: 'icons/admin.svg', color: '#C75746', bcolor: '#790586' }, // その他の経費 *
-  '1101': { icon: 'icons/pig.svg', color: '#C75746', bcolor: '#790586' } // その他の経費 予備費 *
+  '10': { icon: 'icons/admin.svg', color: '#C75746', bcolor: '#790586' }, // その他の経費 *
+  '1001': { icon: 'icons/communication.svg', color: '#C75746', bcolor: '#790586' }, // 投資的経費 農林水産施設災害復旧費 *
+  '1002': { icon: 'icons/coal.svg', color: '#C75746', bcolor: '#790586' }, // 投資的経費 公共土木施設災害復旧費 *
+  '1003': { icon: 'icons/pig.svg', color: '#C75746', bcolor: '#790586' } // その他の経費 予備費 *
 };
 
 
